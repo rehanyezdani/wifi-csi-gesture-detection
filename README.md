@@ -15,4 +15,5 @@ Using SenseFi benchmark to train ResNet18 on CSI data for gesture recognition.
 3. Run: python run.py --model ResNet18 --dataset Widar
 
 ## Training Graph
-![Training Graph](training_graph.png)
+![Training Graph](training_graph.png)<img width="1470" height="956" alt="training_graph" src="https://github.com/user-attachments/assets/aa550e0c-ac8d-49d3-b169-7de5b8df048d" />
+
